@@ -1,0 +1,50 @@
+name,sku,price,description,stock_level,image_path,main_category,subcategory
+Premium Interior Latex Flat,PFIP000001,40.0,優れたカバー力と隠蔽性を持つ高品質なフラット内装ペイントで、天井や通行量の少ない場所に最適です。,19,paint_&_finishes_interior_paint_premium_interior_latex_flat_20250620_192214.png,PAINT & FINISHES,INTERIOR PAINT
+Interior Eggshell Paint,PFIP000002,44.0,上品な艶のある耐久性のあるエッグシェル仕上げペイントで、リビングルームや寝室に最適で、お手入れも簡単です。,80,paint_&_finishes_interior_paint_interior_eggshell_paint_20250620_192249.png,PAINT & FINISHES,INTERIOR PAINT
+Interior Semi-Gloss Paint,PFIP000003,47.0,キッチン、バスルーム、トリム作業に適した、耐湿性を備えた洗えるセミグロス内装ペイントです。,2,paint_&_finishes_interior_paint_interior_semi_gloss_paint_20250620_192336.png,PAINT & FINISHES,INTERIOR PAINT
+Zero VOC Interior Paint,PFIP000004,52.0,すべての居住空間で健康的な室内空気品質を保つ、環境に優しいゼロVOCペイントです。,25,paint_&_finishes_interior_paint_zero_voc_interior_paint_20250620_192411.png,PAINT & FINISHES,INTERIOR PAINT
+One-Coat Interior Paint,PFIP000005,50.0,ほとんどの色を1回の塗布でカバーできる高隠蔽性のワンコートペイント処方で、作業時間を短縮します。,47,paint_&_finishes_interior_paint_one_coat_interior_paint_20250620_192445.png,PAINT & FINISHES,INTERIOR PAINT
+Exterior Latex Paint Satin,PFEP000006,50.0,サイディング、トリム、屋外の表面に対応したサテン仕上げの耐候性外装ペイントです。,93,paint_&_finishes_exterior_paint_exterior_latex_paint_satin_20250620_192519.png,PAINT & FINISHES,EXTERIOR PAINT
+Exterior Acrylic Paint,PFEP000007,57.0,長期間の保護のために耐退色性と優れた密着性を持つプレミアムアクリル外装ペイントです。,74,paint_&_finishes_exterior_paint_exterior_acrylic_paint_20250620_192554.png,PAINT & FINISHES,EXTERIOR PAINT
+Universal Bonding Primer,PFPR000011,32.0,木材、金属、石膏ボード、塗装済み面を含むあらゆる表面に対応した高密着性プライマーです。,96,paint_&_finishes_primer_universal_bonding_primer_20250620_192814.png,PAINT & FINISHES,PRIMER
+Stain-Blocking Primer,PFPR000012,40.0,水染み、クレヨンの跡、その他の変色が染み出るのを防ぐヘビーデューティープライマーです。,42,paint_&_finishes_primer_stain_blocking_primer_20250620_192849.png,PAINT & FINISHES,PRIMER
+Drywall Primer,PFPR000014,29.0,優れた封止性能と素早い重ね塗り時間を持つ、新しい石膏ボード用速乾プライマーです。,42,paint_&_finishes_primer_drywall_primer_20250620_192959.png,PAINT & FINISHES,PRIMER
+Synthetic Brush Set,PFBR000016,16.0,ラテックスペイントに適した、優れたペイント保持力と滑らかな仕上がりのプロフェッショナル用合成毛ブラシです。,86,paint_&_finishes_brushes_synthetic_brush_set_20250620_193107.png,PAINT & FINISHES,BRUSHES
+Natural Bristle Brush Set,PFBR000017,23.0,優れた流れと均しのある、油性ペイントとステイン用の伝統的な天然毛ブラシです。,40,paint_&_finishes_brushes_natural_bristle_brush_set_20250620_193149.png,PAINT & FINISHES,BRUSHES
+Angled Brush Set,PFBR000018,20.0,快適な人間工学的ハンドルを持つ、エッジの切り込みと細部作業用の精密アングルブラシです。,28,paint_&_finishes_brushes_angled_brush_set_20250620_193229.png,PAINT & FINISHES,BRUSHES
+Foam Brush Set,PFBR000019,9.0,小さなプロジェクト、タッチアップ、ステインやポリウレタンの塗布に適した使い捨てフォームブラシです。,8,paint_&_finishes_brushes_foam_brush_set_20250620_193303.png,PAINT & FINISHES,BRUSHES
+Roller Frame 9-inch,PFRL000021,10.0,各種カバータイプに対応したネジ式ハンドル取り付けとケージデザインを備えた丈夫なローラーフレームです。,90,paint_&_finishes_rollers_roller_frame_9_inch_20250620_193410.png,PAINT & FINISHES,ROLLERS
+Microfiber Roller Covers,PFRL000022,14.0,糸くずが少なく優れたペイント保持力を持つ、滑らかな仕上がりのための高品質マイクロファイバーローラーカバーです。,57,paint_&_finishes_rollers_microfiber_roller_covers_20250620_193446.png,PAINT & FINISHES,ROLLERS
+Nap Roller Cover Set,PFRL000023,12.0,さまざまな表面テクスチャとペイントタイプに対応した1/4インチから1インチまでのアソートナップローラーカバーです。,52,paint_&_finishes_rollers_nap_roller_cover_set_20250620_193520.png,PAINT & FINISHES,ROLLERS
+Mini Roller Kit 4-inch,PFRL000024,8.0,フレームとカバーが付属した、小さな場所、タッチアップ、細部作業に適したコンパクトなローラーキットです。,62,paint_&_finishes_rollers_mini_roller_kit_4_inch_20250620_193555.png,PAINT & FINISHES,ROLLERS
+Extension Pole 4-foot,PFRL000025,15.0,塗装プロジェクト中に高い場所に届き、はしごの使用を減らすための伸縮式延長ポールです。,34,paint_&_finishes_rollers_extension_pole_4_foot_20250620_193630.png,PAINT & FINISHES,ROLLERS
+Metal Paint Tray 9-inch,PFPT000042,10.0,適切なローラー充填のためのディープウェルとリブ付きランプを持つ耐久性のあるメタルペイントトレイです。,70,paint_&_finishes_paint_trays_metal_paint_tray_9_inch_20250620_194611.png,PAINT & FINISHES,PAINT TRAYS
+Paint Tray Liner Set,PFPT000043,5.0,素早い清掃とカラーチェンジのために標準的なペイントトレイに合う使い捨てプラスチックライナーです。,0,paint_&_finishes_paint_trays_paint_tray_liner_set_20250620_194645.png,PAINT & FINISHES,PAINT TRAYS
+Canvas Drop Cloth 9x12,PFDC000046,20.0,吸収性のある綿素材で塗装時の床保護に適した丈夫なキャンバスドロップクロスです。,53,paint_&_finishes_drop_cloths_canvas_drop_cloth_9x12_20250620_194828.png,PAINT & FINISHES,DROP CLOTHS
+Plastic Drop Cloth,PFDC000047,5.0,使用後に簡単に処分できる、家具と床の保護用の軽量プラスチックシートです。,60,paint_&_finishes_drop_cloths_plastic_drop_cloth_20250620_194905.png,PAINT & FINISHES,DROP CLOTHS
+Pre-Taped Masking Film,PFDC000050,10.0,窓やトリム作業を素早くカバーするためのマスキングテープ付きプラスチックフィルムです。,97,paint_&_finishes_drop_cloths_pre_taped_masking_film_20250620_195046.png,PAINT & FINISHES,DROP CLOTHS
+Orbital Sander 1/4 Sheet,PTSA000011,67.0,滑らかな木材仕上げのためのダスト収集システムを備えた変速オービタルサンダーです。,43,power_tools_sanders_orbital_sander_14_sheet_20250620_182913.png,POWER TOOLS,SANDERS
+Random Orbit Sander 5-inch,PTSA000012,92.0,渦なし仕上げのためのフック＆ループパッドシステムを備えたランダムオービタルアクションサンダーです。,45,power_tools_sanders_random_orbit_sander_5_inch_20250620_182949.png,POWER TOOLS,SANDERS
+Palm Sander,PTSA000013,52.0,細部作業と狭いコーナーに対応した人間工学的デザインのコンパクトパームサンダーです。,27,power_tools_sanders_palm_sander_20250621_105614.png,POWER TOOLS,SANDERS
+Finishing Hammer 13oz,HTHM041300,25.0,トリム作業や繊細な建設作業に適した、スムーズフェイスの軽量仕上げハンマーです。,75,hand_tools_hammers_finishing_hammer_13oz_20250620_181314.png,HAND TOOLS,HAMMERS
+Phillips Screwdriver Set,HTSD010001,16.0,複数のサイズにわたる磁気チップと快適なクッショングリップを持つ完全なフィリップスヘッドドライバーセットです。,79,hand_tools_screwdrivers_phillips_screwdriver_set_20250620_181424.png,HAND TOOLS,SCREWDRIVERS
+Flathead Screwdriver Set,HTSD020001,14.0,各種用途に対応した精密加工チップと人間工学的ハンドルを持つプロフェッショナル用フラットヘッドドライバーです。,95,hand_tools_screwdrivers_flathead_screwdriver_set_20250620_181457.png,HAND TOOLS,SCREWDRIVERS
+Needle-Nose Pliers 6-inch,HTPL000006,15.0,小さな物を掴んだり狭いスペースで作業するためのセレーテッドジョーを持つロングノーズプライヤーです。,71,hand_tools_pliers_needle_nose_pliers_6_inch_20250621_093109.png,HAND TOOLS,PLIERS
+Tape Measure 25-foot,HTMT000013,14.0,一人での計測に対応した突き出しブレードと磁気チップを持つ丈夫なテープメジャーです。,50,hand_tools_measuring_tools_tape_measure_25_foot_20250621_110945.png,HAND TOOLS,MEASURING TOOLS
+Level 24-inch,HTMT000015,27.0,正確な水平・垂直アラインメントのための3つのバイアルを持つ精密アルミニウムレベルです。,100,hand_tools_measuring_tools_level_24_inch_20250621_111113.png,HAND TOOLS,MEASURING TOOLS
+Speed Square 7-inch,HTMT000014,10.0,度数表示付きの素早い角度カットとレイアウト作業用のアルミニウムスピードスクエアです。,42,hand_tools_measuring_tools_speed_square_7_inch_20250621_111029.png,HAND TOOLS,MEASURING TOOLS
+Wood Screw Assortment,HWSC000001,12.0,フィリップスとロバートソンドライブを備えた1/2インチから3インチまでのさまざまな長さの木ネジの包括的なコレクションです。,14,hardware_screws_wood_screw_assortment_20250621_112459.png,HARDWARE,SCREWS
+Drywall Screws 1-5/8 inch,HWSC000002,8.0,金属スタッドへの素早い貫通と確実な固定のための鋭いポイントを持つファインスレッド石膏ボードネジです。,71,hardware_screws_drywall_screws_1_58_inch_20250620_195131.png,HARDWARE,SCREWS
+Finish Nails 2-inch,HWNA000007,12.0,釘頭が沈められて充填されるトリム作業やキャビネットに適した小頭仕上げ釘です。,48,hardware_nails_finish_nails_2_inch_20250620_195356.png,HARDWARE,NAILS
+Common Nail Assortment,HWNA000006,16.0,一般建設とフレーミング用途の6dから16dの伝統的なコモン釘です。,72,hardware_nails_common_nail_assortment_20250621_112543.png,HARDWARE,NAILS
+Flat Washer Assortment SAE,HWWA000016,8.0,荷重を分散しボルト頭の引き抜きを防ぐためのSAEサイズの標準フラットワッシャーです。,57,hardware_washers_flat_washer_assortment_sae_20250620_195901.png,HARDWARE,WASHERS
+Wire Nut Assortment,ELWRN001,8.0,さまざまな電線径の組み合わせに対応した複数サイズのカラーコード付きワイヤーナットです。,82,electrical_wire_nuts_wire_nut_assortment_20250620_210513.png,ELECTRICAL,WIRE NUTS
+Vinyl Electrical Tape,ELET000026,4.0,電線接続部や継ぎ目を絶縁するための標準的な黒いビニール電気テープです。,95,electrical_electrical_tape_vinyl_electrical_tape_20250620_211346.png,ELECTRICAL,ELECTRICAL TAPE
+PTFE Thread Tape White,PLTFL001,2.0,水道管のネジを密封するための標準的な白いPTFEテープです。,86,plumbing_teflon_tape_ptfe_thread_tape_white_20250620_214238.png,PLUMBING,TEFLON TAPE
+Safety Net for Storage,SOOVR005,35.0,頭上の収納エリアから物が落ちるのを防ぐ保護ネットです。,77,storage_&_organization_overhead_storage_safety_net_for_storage_20250620_223003.png,STORAGE & ORGANIZATION,OVERHEAD STORAGE
+Old Work Box,ELJB000014,6.0,壁を撤去せずに既存の壁にコンセントを追加するためのレトロフィット電気ボックスです。,82,electrical_junction_boxes_old_work_box_20250620_210403.png,ELECTRICAL,JUNCTION BOXES
+Extension Pole 4-foot,PFRL000025,15.0,塗装プロジェクト中に高い場所に届き、はしごの使用を減らすための伸縮式延長ポールです。,34,paint_&_finishes_rollers_extension_pole_4_foot_20250620_193630.png,PAINT & FINISHES,ROLLERS
+Lineman's Pliers 9-inch,HTPL000007,25.0,電気工事に適した切断エッジと絶縁グリップを持つ丈夫なラインマンプライヤーです。,18,hand_tools_pliers_linemans_pliers_9_inch_20250620_182023.png,HAND TOOLS,PLIERS
+Cordless Drill 18V Li-Ion,PTDR000001,115.0,リチウムイオンバッテリー、変速コントロール、LEDワークライトを備えたプロフェッショナル用コードレスドリルです。,3,power_tools_drills_cordless_drill_18v_li_ion_20250620_182306.png,POWER TOOLS,DRILLS
+Hammer Drill 1/2-inch,PTDR000002,160.0,コンクリートや石材への穿孔のためのパーカッションアクションを持つコード付きハンマードリルです。,77,power_tools_drills_hammer_drill_12_inch_20250620_182340.png,POWER TOOLS,DRILLS
+Right Angle Drill,PTDR000003,138.0,3/8インチチャックとリバーシブルモーターを備えた、狭いスペース用のコンパクト直角ドリルです。,5,power_tools_drills_right_angle_drill_20250620_182416.png,POWER TOOLS,DRILLS
