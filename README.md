@@ -1,4 +1,4 @@
-# ワークショップ: "Microsoft Foundry で AI エージェントを観察・最適化・保護する"
+# Workshop "Microsoft Foundry AI Agent オブザーバビリティ"
 
 ## セッション概要
 
