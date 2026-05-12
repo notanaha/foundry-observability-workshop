@@ -219,3 +219,4 @@ labs/notebooks/0-setup/slides/output/
 
 # other
 labs/notebooks/backup/*
+labs/data/contoso-travel/custom_evaluation_data.jsonl
